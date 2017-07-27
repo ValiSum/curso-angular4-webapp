@@ -52,6 +52,12 @@
 	background: #E03137;
 }
 
+.activado {
+	text-decoration: none !important;
+	/*background: #E03137 !important;*/
+	border-bottom: 2px solid yellow !important;
+}
+
 #main .jumbotron {
 	padding: 50px;
 	margin-top: 30px;
